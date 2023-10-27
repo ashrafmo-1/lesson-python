@@ -27,13 +27,12 @@ for i in range(10):
 
 
 print('# search form string in array py for loop and if condition')
-words = ['string', 'odd', 'even', 'number', 'boolian', 'true', 'false']
+words = ['string', 'odd', 'even', 'number', 'booliann', 'true', 'false']
 for index in range(len(words)):
     if words[index] == 'boolian':
         print(index, ' iam the boolian value')
     elif words[index] == 'odd':
         print(index,' iam the odd value')
-        break
     else:
         print(index, ' iam not boolian value')
 else:
