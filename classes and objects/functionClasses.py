@@ -12,9 +12,9 @@ class employee:
             return 'rating is bad'
         
     def bonus(self):
-        if self.age == 60:
+        if self.age >= 60:
             self.salary += 500
-            print('thanks')
+            print('thank you and your total now ' + str(self.salary))
         else:
             self.salary
-            print('not thanks')
+            print('comming soon ' + str(self.salary))
