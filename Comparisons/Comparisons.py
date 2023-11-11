@@ -10,14 +10,26 @@ def max_num(numOne, numTwo, numThree):
     else:
         return numThree
 
-print(max_num(100, 20, 300))
-print(max(100, 2000, 300))
+print(max_num(1000, 2000, 3000))
+print(max(1000, 2000, 3000))
+
+# make built-in function :> min()
+def min_num(numOne, numTwo, numThree):
+    if numOne <= numTwo and numTwo <= numThree:
+        return numOne
+    elif numTwo <= numOne and numTwo <= numThree:
+        return numTwo
+    else:
+        return numThree
+
+print(min_num(1000, 2000, 3000))
+print(min(1000, 2000, 3000))
 
 # match strting if one if including two
 def matchString(strOne, strTwo):
     if strOne == strTwo:
-        return 'done True'
+        return 'string is matching'
     else:
-        return 'error False'
+        return 'string is not matching'
 
 print(matchString('hell00o', 'hello'))

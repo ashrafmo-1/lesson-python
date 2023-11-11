@@ -12,9 +12,4 @@ except ZeroDivisionError as zeroError:
 except ValueError as errorStr:
     print(errorStr)
 
-
-
-
-
-
-print('Done')
+print('code is work')
