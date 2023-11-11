@@ -1,3 +1,9 @@
+# you cant not make builtIn function variables
+
+fName = 'ali'
+lName = 'mohamed'
+my_age = 21
+
 name = 'ashraf mohamed'
 age = '21'
 student = 'delta'
