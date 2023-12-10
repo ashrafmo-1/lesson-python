@@ -1,14 +1,9 @@
 from math import *
-
 # numbers data type
-
 print('---------- first examble ----------')
-
 numOne = 20
 numTwo = 21
-
 print(numTwo - numOne + 11 / 2 * 1)
-
 print('---------- second examble ----------')
 
 # some built-in functions from the numbers
