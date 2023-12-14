@@ -17,3 +17,46 @@ print(type(False)) # bool => boolean
 # number + data type
 # string + data type
 # boolean + data type
+
+
+# variables  المتغيرات
+# number = 1010
+# 1number = 1 # مينفعش اسم المتغير يبدا ب رقم
+# $number = 10 # مينفعش اسم المتغير يبدا ب رموز
+# _nam_e = 'ashraf' # تقدر تبدا اسم المتغير ب اندرسكور
+# مينفعش نكتب رموز في اسم المتغير
+
+
+
+
+
+
+B = True
+
+print(B)
+print(type(B))
+x = 10
+fName = 'ranya1'
+
+print(fName)
+print(fName)
+print(fName)
+print(type(fName))
+boo = False
+print(fName)
+print(fName)
+print(fName)
+print(type(fName))
+
+
+print('''
+ashraf
+mohamed
+''')
+
+print("""
+ranya
+tasnim
+heba
+""")
+
