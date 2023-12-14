@@ -60,3 +60,31 @@ tasnim
 heba
 """)
 
+
+# start number (العمليات الحسابيه)
+
+# + - * / % **
+
+sum = 12 + 3
+print(sum)
+
+print(10+10)
+
+tr7 = 100 - 50
+print(tr7)
+
+# / هيرن رقم عشري (float)
+# // هيرن رقم صحيح (int)
+
+ksma = 100 // 2
+print(ksma)
+print(type(ksma))
+
+# نجمه واحده (*)  ضرب
+#  نجمتين (**) أوس
+
+print(20 * 4)
+
+print(10 ** 2)
+
+print(19 % 2)
