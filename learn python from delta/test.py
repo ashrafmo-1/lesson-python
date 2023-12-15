@@ -43,3 +43,8 @@ print(not(7 < 13))
 n = float(10 - 2)
 print('string', n)
 print(type(n))
+
+# for loops الحلقات التكررايه
+for x in range(10):
+    x += 1
+    print(x)

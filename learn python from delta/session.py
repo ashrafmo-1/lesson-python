@@ -25,10 +25,21 @@ print(10 - 5)
 print(10 / 2) # / => سلاش واحده بتقسم وترن رقم float
 print(10 // 2) # // => دبل سلاش بترن رقم integer
 
-print(10 * 2)
-print(10 ** 2)
+print(10 * 2) # بتضرب
+print(10 ** 2) # الاوس
 
-# for loops الحلقات التكررايه
-for x in range(10):
-    x += 1
-    print(x)
+print(10 % 2) # باقي القسمه
+
+str = 'ashraf mohamed'
+
+print(str)
+print(str[0 : 6]) # not including end
+
+name = str[0 : 6]
+print('var =>', name)
+
+print = (10) # tuple
+
+# list tuple Dictionary fuction if
+# numpy pandas
+# + 100 نظري
