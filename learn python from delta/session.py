@@ -15,7 +15,7 @@
 # print(type(live))
 
 # operators => العمليات الحسابيه
-# + - * / %
+# + - * / % **
 print(10 + 1)
 sum = 10 + 1
 print(sum)
@@ -25,8 +25,10 @@ print(10 - 5)
 print(10 / 2) # / => سلاش واحده بتقسم وترن رقم float
 print(10 // 2) # // => دبل سلاش بترن رقم integer
 
+print(10 * 2)
+print(10 ** 2)
 
-
-n = float(10 - 2)
-print('string', n)
-print(type(n))
+# for loops الحلقات التكررايه
+for x in range(10):
+    x += 1
+    print(x)
