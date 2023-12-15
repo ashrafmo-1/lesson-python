@@ -39,3 +39,7 @@ print(1 != 10)
 print(7 >= 13 and 6 <= 10)
 print(7 >= 13 or 6 <= 10)
 print(not(7 < 13))
+
+n = float(10 - 2)
+print('string', n)
+print(type(n))
