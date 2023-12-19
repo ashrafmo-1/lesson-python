@@ -12,7 +12,7 @@ elif operator == '*':
     print(numberOne * numberTwo)
 elif operator == '/':
     print(numberOne / numberTwo)
-elif operator == '^':
-    def powFirstExample(numberOne, numberTwo):
-        return numberOne ** numberTwo
-print(powFirstExample(numberTwo, numberTwo))
+# elif operator == '^':
+#     def powFirstExample(numberOne, numberTwo):
+#         return numberOne ** numberTwo
+# print(powFirstExample(numberTwo, numberTwo))
