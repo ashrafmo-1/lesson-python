@@ -1,0 +1,5 @@
+print('ashraf')
+print('100')
+print(100)
+print(True)
+print(False)
